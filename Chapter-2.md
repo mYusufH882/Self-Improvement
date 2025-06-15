@@ -1,176 +1,155 @@
 # 🧠 UNBREAKABLE BRAIN
 
-## 30 Days to Sharpen Logic & Analysis
+## 30 Hari Mengasah Logika & Analisis
 
 ---
 
-# 🔢 **BAB 2: MENTAL ARITHMETIC MASTERY**
+# 🔢 **BAB 2: JAGO HITUNG CEPAT**
 
-_Melatih Kecepatan Menghitung: Deret, Modulus, Persen, Penjumlahan Cepat_
-
----
-
-## 🎯 **PENGANTAR BAB 2**
-
-Mengapa mental arithmetic penting untuk logika dan analisis? Karena kemampuan hitung cepat adalah fondasi dari:
-
-- **Pattern recognition** dalam data
-- **Quick estimation** untuk decision making
-- **Numerical intuition** untuk problem solving
-- **Cognitive load reduction** saat menganalisis masalah kompleks
-
-**Target Bab 2:**
-
-- Menguasai teknik hitung cepat fundamental
-- Meningkatkan speed calculation 200%+
-- Membangun number sense yang kuat
-- Mengotomatisasi operasi dasar
-
-**Challenge Questions dari file:**
-
-- 25% dari 640 = ?
-- 36 mod 5 = ?
-
-Mari kita pecahkan dan pelajari tekniknya!
+_Latih Kecepatan Hitung: Deret, Sisa Bagi, Persen, Penjumlahan Kilat_
 
 ---
 
-## 🧠 **TEORI COGNITIVE LOAD & MENTAL MATH**
+## 🎯 **KENALAN DENGAN BAB 2**
 
-### **Working Memory Limitations**
+Halo kembali! Setelah belajar logika di Bab 1, sekarang kita akan jadi **ninja matematika**! 🥷
 
-Otak hanya bisa memproses 7±2 item secara bersamaan. Mental math techniques mengurangi cognitive load melalui:
+Bayangkan kamu bisa hitung 47 × 11 dalam 3 detik, atau langsung tahu 25% dari 640 tanpa kalkulator. Keren kan? Nah, di bab ini kita akan belajar trik-trik ajaib untuk hitung super cepat!
 
-**1. Chunking (Pengelompokan):**
+**Yang akan kamu pelajari:**
 
-```
-❌ Sulit: 2,3,4,7 sebagai 4 item terpisah
-✅ Mudah: 23 dan 47 sebagai 2 chunks
-```
+- Trik perkalian kilat (bikin teman-teman takjub!)
+- Cara hitung persen dalam sekejap
+- Menguasai sisa bagi (modulo) dengan mudah
+- Mengenali pola angka seperti detektif
+- Jadi calculator manusia yang handal
 
-**2. Pattern Recognition:**
+**Kenapa penting?**
 
-```
-❌ Sulit: 25 × 16 = 25 × 16
-✅ Mudah: 25 × 16 = 25 × (4 × 4) = (25 × 4) × 4 = 100 × 4 = 400
-```
-
-**3. Automaticity:**
-
-```
-Basic facts (like 7×8=56) should be automatic
-This frees up mental space for complex reasoning
-```
-
-### **Dual Coding Theory**
-
-Gunakan visual dan verbal processing untuk memperkuat memory:
-
-```
-Verbal: "Twenty-five times four equals one hundred"
-Visual: 25 × 4 = (20+5) × 4 = 80+20 = 100
-```
+- Bikin otak lebih cepat dan tajam
+- Bantu di ujian matematika
+- Berguna untuk kehidupan sehari-hari (belanja, bisnis, dll)
+- Fondasi untuk jadi problem solver yang hebat
 
 ---
 
-## ⚡ **MULTIPLICATION SHORTCUTS**
+## 🧠 **KENAPA OTAK KITA PERLU LATIHAN HITUNG?**
 
-### **1. Multiplication by 11**
+### **Cara Kerja Otak Saat Hitung**
 
-#### **Basic Method (2-digit numbers):**
+Otak kita seperti **HP dengan RAM terbatas**. Kalau kita bisa hitung dasar dengan otomatis, otak punya lebih banyak "ruang" untuk mikir hal yang sulit.
+
+**Contoh:**
 
 ```
-Formula: a × 11 = a(a₁+a₂)a₂
+❌ Cara Lambat: 23 × 47
+"Emmm... 23 kali 40 = 920, terus 23 kali 7 = 161, jadi 920 + 161 = 1081"
+(butuh 2 menit, otak capek)
 
-Contoh:
+✅ Cara Cepat: Pakai trik Vedic
+"2×4=8, (2×7)+(3×4)=26, 3×7=21, jadi 8|26|21 = 1081"
+(cuma 10 detik, otak masih fresh!)
+```
+
+### **3 Rahasia Hitung Cepat**
+
+1. **Chunking**: Kelompokin angka jadi bagian yang mudah diingat
+2. **Pattern**: Pakai pola yang sudah kita kenal
+3. **Automaticity**: Latih sampai jadi refleks alami
+
+---
+
+## ⚡ **TRIK PERKALIAN KILAT**
+
+### **1. Perkalian dengan 11 (Trik Ajaib!)**
+
+#### **Untuk Angka 2 Digit:**
+
+```
+Rumus: a × 11 = a(a₁+a₂)a₂
+
+Contoh Mudah:
 23 × 11:
-Step 1: Write first digit: 2___
-Step 2: Add digits: 2+3=5: 2_5_
-Step 3: Write last digit: 253
+Langkah 1: Tulis angka pertama: 2___
+Langkah 2: Jumlahkan: 2+3=5: 2_5_
+Langkah 3: Tulis angka terakhir: 253
 
-32 × 11:
-3(3+2)2 = 352
-
-45 × 11:
-4(4+5)5 = 495
+Coba Sendiri:
+32 × 11 = 3(3+2)2 = 352
+45 × 11 = 4(4+5)5 = 495
 ```
 
-#### **Advanced Method (with carrying):**
+#### **Kalau Jumlahnya Lebih dari 9:**
 
 ```
-Ketika sum > 9, carry over:
+Contoh: 67 × 11
+6(6+7)7 = 6(13)7
+Karena 13 > 9, pindahkan 1 ke depan:
+(6+1)(3)7 = 737
 
-67 × 11:
-6(6+7)7 = 6(13)7 = (6+1)(3)7 = 737
-
-89 × 11:
-8(8+9)9 = 8(17)9 = (8+1)(7)9 = 979
+Contoh Lagi:
+89 × 11 = 8(8+9)9 = 8(17)9 = (8+1)(7)9 = 979
 ```
 
-#### **Three-digit numbers:**
+#### **Untuk Angka 3 Digit:**
 
 ```
 347 × 11:
-3(3+4)(4+7)7 = 3(7)(11)7 = 3(7+1)(1)7 = 3817
+3(3+4)(4+7)7 = 3(7)(11)7
+Karena ada 11, pindahkan 1:
+3(7+1)(1)7 = 3817
 
-Breakdown:
-- First digit: 3
-- Second: 3+4 = 7
-- Third: 4+7 = 11 → carry 1, write 1
-- Fourth: 7
-- Result: 3817
+Tips: Kerjakan dari kanan ke kiri kalau ada yang lebih dari 9!
 ```
 
-### **2. Multiplication by 25**
+### **2. Perkalian dengan 25 (Super Praktis!)**
 
-#### **Core Method:**
+#### **Trik Dasar:**
 
 ```
 25 = 100/4
-So: n × 25 = (n ÷ 4) × 100
+Jadi: n × 25 = (n ÷ 4) × 100
 
-Examples:
+Contoh Gampang:
 24 × 25 = (24 ÷ 4) × 100 = 6 × 100 = 600
 36 × 25 = (36 ÷ 4) × 100 = 9 × 100 = 900
 88 × 25 = (88 ÷ 4) × 100 = 22 × 100 = 2200
 ```
 
-#### **When n is not divisible by 4:**
+#### **Kalau Tidak Bisa Dibagi 4:**
 
 ```
 26 × 25:
-Method 1: 26 × 25 = (24+2) × 25 = 24×25 + 2×25 = 600 + 50 = 650
-Method 2: 26 × 25 = 26 × (100/4) = 2600/4 = 650
+Cara 1: 26 × 25 = (24+2) × 25 = 24×25 + 2×25 = 600 + 50 = 650
+Cara 2: 26 × 25 = 26 × (100/4) = 2600/4 = 650
 ```
 
-### **3. Squaring Numbers Ending in 5**
+### **3. Kuadrat Angka yang Berakhiran 5 (Trik Paling Keren!)**
 
-#### **Formula: n5² = (n)(n+1) followed by 25**
-
-```
-25² = (2×3) and 25 = 625
-35² = (3×4) and 25 = 1225
-45² = (4×5) and 25 = 2025
-75² = (7×8) and 25 = 5625
-95² = (9×10) and 25 = 9025
-```
-
-#### **Why it works:**
+#### **Rumus Ajaib: n5² = (n)(n+1) diikuti 25**
 
 ```
-Mathematical proof:
-(10n + 5)² = 100n² + 100n + 25 = 100n(n+1) + 25
-
-Example: 35² = (30+5)²
-= 30² + 2(30)(5) + 5²
-= 900 + 300 + 25
-= 1225
-= (3×4)×100 + 25
+25² = (2×3) dan 25 = 625
+35² = (3×4) dan 25 = 1225
+45² = (4×5) dan 25 = 2025
+75² = (7×8) dan 25 = 5625
+95² = (9×10) dan 25 = 9025
 ```
 
-### **4. Vedic Mathematics - Urdhva-Tiryagbhyam**
+#### **Kenapa Bisa Gitu?**
 
-#### **Two-digit multiplication:**
+```
+Penjelasan Matematika:
+35² = (30+5)² = 30² + 2(30)(5) + 5²
+    = 900 + 300 + 25 = 1225
+    = (3×4)×100 + 25
+
+Jadi selalu: (angka depan) × (angka depan + 1) × 100 + 25
+```
+
+### **4. Perkalian 2 Digit dengan Trik Vedic**
+
+#### **Metode Urdhva-Tiryagbhyam:**
 
 ```
 23 × 47:
@@ -178,327 +157,332 @@ Example: 35² = (30+5)²
 ×  4  7
 _______
 
-Step 1: 2×4 = 8 (hundreds place)
-Step 2: (2×7)+(3×4) = 14+12 = 26 (tens place)
-Step 3: 3×7 = 21 (units place)
+Langkah 1: 2×4 = 8 (ratusan)
+Langkah 2: (2×7)+(3×4) = 14+12 = 26 (puluhan)
+Langkah 3: 3×7 = 21 (satuan)
 
-Arrange: 8|26|21
-Handle carries: 8|(2+6)|21 = 10|8|1 = 1081
+Susun: 8|26|21
+Benahi: 8|(2+6)|21 = 10|8|1 = 1081
 ```
 
-#### **More examples:**
+#### **Contoh Lagi:**
 
 ```
 34 × 56:
 3×5 = 15
 (3×6)+(4×5) = 18+20 = 38
 4×6 = 24
-Result: 15|38|24 = 15|(3+8)|24 = 1904
+Hasil: 15|38|24 = 15|(3+8)|24 = 1904
 
 67 × 89:
 6×8 = 48
 (6×9)+(7×8) = 54+56 = 110
 7×9 = 63
-Result: 48|110|63 = 48|(11+0)|63 = 5963
+Hasil: 48|110|63 = 48|(11+0)|63 = 5963
 ```
 
 ---
 
-## 📊 **PERCENTAGE MENTAL CALCULATIONS**
+## 📊 **JAGO HITUNG PERSEN**
 
-### **The 10% Foundation**
+### **Dasar: Trik 10%**
 
 ```
-10% of any number: Move decimal point left one place
-10% of 840 = 84
-10% of 1570 = 157
-10% of 0.45 = 0.045
+10% dari angka apapun: Geser koma ke kiri 1 tempat
+10% dari 840 = 84
+10% dari 1570 = 157
+10% dari 4.5 = 0.45
 ```
 
-### **Building from 10%:**
+### **Bangun dari 10%:**
 
 ```
 5% = 10% ÷ 2
 20% = 10% × 2
 15% = 10% + 5%
-25% = 10% × 2.5 (or divide by 4)
+25% = 10% × 2.5 (atau bagi 4)
 30% = 10% × 3
 ```
 
-### **Challenge dari file: 25% dari 640**
+### **Contoh dari File: 25% dari 640**
 
 ```
-Method 1: 25% = 1/4
+Cara 1: 25% = 1/4
 640 ÷ 4 = 160
 
-Method 2: 25% = 10% × 2.5
-10% of 640 = 64
+Cara 2: 25% = 10% × 2.5
+10% dari 640 = 64
 64 × 2.5 = 64 × 2 + 64 × 0.5 = 128 + 32 = 160
 
-Method 3: 25% = 20% + 5%
-20% of 640 = 128
-5% of 640 = 32
+Cara 3: 25% = 20% + 5%
+20% dari 640 = 128
+5% dari 640 = 32
 Total = 160
 ```
 
-### **Complex Percentages:**
+### **Persen yang Rumit:**
 
 ```
-37% of 200:
+37% dari 200:
 30% + 7%
-30% of 200 = 60
-7% of 200 = 14
+30% dari 200 = 60
+7% dari 200 = 14
 Total = 74
 
-15% of 180:
+15% dari 180:
 10% + 5%
-10% of 180 = 18
-5% of 180 = 9
+10% dari 180 = 18
+5% dari 180 = 9
 Total = 27
 
-125% of 80:
+125% dari 80:
 100% + 25%
-100% of 80 = 80
-25% of 80 = 20
+100% dari 80 = 80
+25% dari 80 = 20
 Total = 100
 ```
 
-### **Percentage Tricks:**
+### **Trik Balik Persen:**
 
 ```
-Finding what % A is of B:
+Mencari berapa % A dari B:
 A/B × 100
 
-Quick estimates:
-- If A ≈ B, then ≈ 100%
-- If A ≈ B/2, then ≈ 50%
-- If A ≈ B/4, then ≈ 25%
+Estimasi Cepat:
+- Kalau A ≈ B, maka ≈ 100%
+- Kalau A ≈ B/2, maka ≈ 50%
+- Kalau A ≈ B/4, maka ≈ 25%
 
-Example: What % is 37 of 148?
-37 ≈ 148/4, so ≈ 25%
-Exact: 37/148 = 0.25 = 25%
+Contoh: Berapa % 37 dari 148?
+37 ≈ 148/4, jadi ≈ 25%
+Exact: 37/148 = 0.25 = 25% ✓
 ```
 
 ---
 
-## 🔧 **MODULAR ARITHMETIC**
+## 🔧 **MENGUASAI SISA BAGI (MODULO)**
 
-### **Understanding Modulo**
-
-```
-Definition: a mod n = remainder when a is divided by n
-
-Examples:
-23 mod 5 = 3 (because 23 = 4×5 + 3)
-36 mod 5 = 1 (because 36 = 7×5 + 1)
-47 mod 8 = 7 (because 47 = 5×8 + 7)
-```
-
-### **Challenge dari file: 36 mod 5**
+### **Apa itu Modulo?**
 
 ```
-36 ÷ 5 = 7 remainder 1
-So: 36 mod 5 = 1
+Definisi: a mod n = sisa ketika a dibagi n
 
-Verification: 7 × 5 = 35, and 36 - 35 = 1 ✓
+Contoh:
+23 mod 5 = 3 (karena 23 = 4×5 + 3)
+36 mod 5 = 1 (karena 36 = 7×5 + 1)
+47 mod 8 = 7 (karena 47 = 5×8 + 7)
 ```
 
-### **Quick Modulo Techniques:**
-
-#### **Mod 2 (Even/Odd Check):**
+### **Contoh dari File: 36 mod 5**
 
 ```
-Any number mod 2:
-- Even numbers: mod 2 = 0
-- Odd numbers: mod 2 = 1
+36 ÷ 5 = 7 sisa 1
+Jadi: 36 mod 5 = 1
 
-Examples:
-23 mod 2 = 1 (odd)
-36 mod 2 = 0 (even)
+Verifikasi: 7 × 5 = 35, dan 36 - 35 = 1 ✓
 ```
 
-#### **Mod 3 (Divisibility by 3):**
+### **Trik Cepat Modulo:**
+
+#### **Mod 2 (Cek Ganjil/Genap):**
 
 ```
-Rule: Sum of digits mod 3
+Angka berakhiran 0,2,4,6,8 → mod 2 = 0 (genap)
+Angka berakhiran 1,3,5,7,9 → mod 2 = 1 (ganjil)
 
-Examples:
+Contoh:
+23 mod 2 = 1 (ganjil)
+36 mod 2 = 0 (genap)
+```
+
+#### **Mod 3 (Pakai Jumlah Digit):**
+
+```
+Aturan: Jumlahkan semua digit, lalu mod 3
+
+Contoh:
 123: 1+2+3 = 6, 6 mod 3 = 0 → 123 mod 3 = 0
 127: 1+2+7 = 10, 10 mod 3 = 1 → 127 mod 3 = 1
 ```
 
-#### **Mod 9 (Divisibility by 9):**
+#### **Mod 9 (Pakai Jumlah Digit Juga):**
 
 ```
-Rule: Sum of digits mod 9
+Sama seperti mod 3, tapi pakai mod 9
 
-Examples:
+Contoh:
 234: 2+3+4 = 9, 9 mod 9 = 0 → 234 mod 9 = 0
 235: 2+3+5 = 10, 10 mod 9 = 1 → 235 mod 9 = 1
 ```
 
-#### **Mod Powers of 2:**
+#### **Mod Pangkat 2 (4, 8, 16, dll):**
 
 ```
-For mod 4, 8, 16, etc., look at last digits:
-
-Mod 4: Look at last 2 digits
+Mod 4: Lihat 2 angka terakhir
 1234 mod 4 = 34 mod 4 = 2
 
-Mod 8: Look at last 3 digits
+Mod 8: Lihat 3 angka terakhir
 5678 mod 8 = 678 mod 8 = 6
 
-Mod 16: Look at last 4 digits
+Mod 16: Lihat 4 angka terakhir
 ```
 
 ---
 
-## 📈 **SEQUENCE & SERIES (DERET)**
+## 📈 **MENGUASAI DERET ANGKA**
 
-### **Arithmetic Sequences (Deret Aritmatika)**
+### **Deret Tambah-Tambahan (Arithmetic)**
 
 ```
-Formula: a, a+d, a+2d, a+3d, ...
-where a = first term, d = common difference
+Rumus: a, a+d, a+2d, a+3d, ...
+dimana a = angka pertama, d = selisih
 
-Finding the pattern:
+Mencari Pola:
 5, 8, 11, 14, 17, ?
-Differences: +3, +3, +3, +3
-Pattern: Add 3 each time
-Next: 17 + 3 = 20
+Selisih: +3, +3, +3, +3
+Pola: Tambah 3 setiap kali
+Jawaban: 17 + 3 = 20
 ```
 
-### **Geometric Sequences (Deret Geometri)**
+### **Deret Kali-Kalian (Geometric)**
 
 ```
-Formula: a, ar, ar², ar³, ...
-where a = first term, r = common ratio
+Rumus: a, ar, ar², ar³, ...
+dimana a = angka pertama, r = rasio
 
-Finding the pattern:
+Mencari Pola:
 3, 6, 12, 24, 48, ?
-Ratios: ×2, ×2, ×2, ×2
-Pattern: Multiply by 2 each time
-Next: 48 × 2 = 96
+Rasio: ×2, ×2, ×2, ×2
+Pola: Kali 2 setiap kali
+Jawaban: 48 × 2 = 96
 ```
 
-### **Advanced Pattern Recognition:**
-
-#### **Fibonacci-type Sequences:**
+### **PENTING: Trik Pemisahan Ganjil-Genap**
 
 ```
-Rule: Each term = sum of previous two
+Soal: 2, 6, 3, 8, 5, 12, ?
 
-Classic: 1, 1, 2, 3, 5, 8, 13, ?
+❌ Cara Salah: Lihat berurutan
+2→6 (+4), 6→3 (-3), 3→8 (+5)... BINGUNG!
+
+✅ Cara Benar: Pisah posisi ganjil-genap
+POSISI GANJIL (1,3,5,7...): 2, 3, 5, ?
+POSISI GENAP (2,4,6,8...): 6, 8, 12, ?
+
+Analisis:
+- Posisi ganjil: 2, 3, 5 (pola +1, +2, jadi +3) → jawab: 8
+- Posisi genap: 6, 8, 12 (pola +2, +4, jadi +6) → jawab: 18
+
+Yang ditanya posisi ke-7 (ganjil), jadi jawaban: 8
+```
+
+### **Deret Fibonacci (Jumlah 2 Sebelumnya)**
+
+```
+Aturan: Setiap angka = jumlah 2 angka sebelumnya
+
+Klasik: 1, 1, 2, 3, 5, 8, 13, ?
 1+1=2, 1+2=3, 2+3=5, 3+5=8, 5+8=13, 8+13=21
 
-Variations:
+Variasi:
 2, 3, 5, 8, 13, 21, ?
 2+3=5, 3+5=8, 5+8=13, 8+13=21, 13+21=34
 ```
 
-#### **Polynomial Sequences:**
+### **Deret Pola Campuran:**
 
 ```
-Square numbers: 1, 4, 9, 16, 25, ?
-Pattern: 1², 2², 3², 4², 5², 6²
-Next: 36
-
-Triangular numbers: 1, 3, 6, 10, 15, ?
-Pattern: 1, 1+2, 1+2+3, 1+2+3+4, 1+2+3+4+5
-Next: 1+2+3+4+5+6 = 21
-```
-
-#### **Mixed Operation Sequences:**
-
-```
-Example: 2, 6, 12, 20, 30, 42, ?
-Analysis:
+Contoh: 2, 6, 12, 20, 30, 42, ?
+Analisis:
 6-2=4, 12-6=6, 20-12=8, 30-20=10, 42-30=12
-Second differences: +2 each time
-Pattern: n(n+1) where n starts from 1
+Selisih: 4, 6, 8, 10, 12 (naik 2 setiap kali)
+Selisih berikutnya: 12+2=14
+Jawaban: 42+14=56
+
+Rumus: n×(n+1) dimana n dimulai dari 1
 2=1×2, 6=2×3, 12=3×4, 20=4×5, 30=5×6, 42=6×7
-Next: 7×8 = 56
+Berikutnya: 7×8=56 ✓
 ```
 
 ---
 
-## 🏃‍♂️ **SPEED OPTIMIZATION STRATEGIES**
+## 🏃‍♂️ **STRATEGI LATIHAN CEPAT**
 
-### **The 80/20 Principle**
-
-```
-80% of mental math comes from 20% of techniques:
-1. Multiplication tables up to 12×12 (automatic)
-2. Powers of 2 up to 2¹⁰ = 1024
-3. Perfect squares up to 25²
-4. Common percentages (10%, 25%, 50%, etc.)
-5. Basic fraction-decimal conversions
-```
-
-### **Progressive Training:**
-
-#### **Week 1: Foundation**
+### **Prinsip 80/20**
 
 ```
-Daily practice (10 minutes):
-- Multiplication tables 1-12
-- Addition/subtraction within 100
-- Simple percentages (10%, 25%, 50%)
-- Basic sequences (arithmetic only)
+80% kemampuan hitung cepat datang dari 20% teknik:
+1. Tabel perkalian 1-12 (otomatis)
+2. Pangkat 2 sampai 2¹⁰ = 1024
+3. Kuadrat sampai 25²
+4. Persen umum (10%, 25%, 50%, dll)
+5. Konversi pecahan-desimal dasar
 ```
 
-#### **Week 2: Intermediate**
+### **Program Latihan Bertahap:**
+
+#### **Minggu 1: Fondasi**
 
 ```
-Daily practice (15 minutes):
-- Two-digit multiplication
-- Percentage calculations up to 100%
-- Modular arithmetic basics
-- Geometric sequences
+Latihan Harian (10 menit):
+- Tabel perkalian 1-12
+- Penjumlahan/pengurangan dalam 100
+- Persen sederhana (10%, 25%, 50%)
+- Deret aritmatika saja
 ```
 
-#### **Week 3: Advanced**
+#### **Minggu 2: Menengah**
 
 ```
-Daily practice (20 minutes):
-- Vedic mathematics techniques
-- Complex percentage problems
-- Mixed sequence types
-- Multi-step calculations
+Latihan Harian (15 menit):
+- Perkalian 2 digit
+- Perhitungan persen sampai 100%
+- Modular arithmetic dasar
+- Deret geometri
 ```
 
-#### **Week 4: Speed & Accuracy**
+#### **Minggu 3: Lanjutan**
 
 ```
-Daily practice (25 minutes):
-- Timed calculation drills
-- Real-world application problems
-- Error analysis and correction
-- Creating your own problems
+Latihan Harian (20 menit):
+- Teknik Vedic mathematics
+- Masalah persen kompleks
+- Jenis deret campuran
+- Kalkulasi multi-step
+```
+
+#### **Minggu 4: Kecepatan & Akurasi**
+
+```
+Latihan Harian (25 menit):
+- Drill kalkulasi dengan timer
+- Aplikasi masalah real-world
+- Analisa error dan koreksi
+- Bikin soal sendiri
 ```
 
 ---
 
-## 🎯 **LATIHAN PRAKTIS BAB 2**
+## 🎯 **LATIHAN SERU BAB 2**
 
-### **Exercise 2.1: Multiplication Mastery**
+### **Latihan 2.1: Master Perkalian**
 
 ```
-Hitung menggunakan shortcuts:
+Hitung pakai trik cepat:
 
 1. 47 × 11 = ?
 2. 32 × 25 = ?
 3. 65² = ?
-4. 24 × 37 = ? (gunakan Vedic method)
+4. 24 × 37 = ? (pakai metode Vedic)
 5. 76 × 11 = ?
 
-Waktu target: 2 menit
+Target Waktu: 2 menit
 ```
 
-### **Exercise 2.2: Percentage Power**
+### **Latihan 2.2: Jagoan Persen**
 
 ```
-Hitung mental calculation:
+Hitung tanpa kalkulator:
 
 1. 15% dari 240 = ?
 2. 37% dari 150 = ?
@@ -506,71 +490,71 @@ Hitung mental calculation:
 4. Berapa % 45 dari 180?
 5. 8% dari 750 = ?
 
-Waktu target: 3 menit
+Target Waktu: 3 menit
 ```
 
-### **Exercise 2.3: Modular Arithmetic**
+### **Latihan 2.3: Ahli Modulo**
 
 ```
-Calculate:
+Hitung:
 
 1. 47 mod 7 = ?
-2. 123 mod 9 = ? (gunakan sum of digits)
+2. 123 mod 9 = ? (pakai jumlah digit)
 3. 89 mod 4 = ?
 4. 234 mod 3 = ?
 5. 156 mod 8 = ?
 
-Waktu target: 2 menit
+Target Waktu: 2 menit
 ```
 
-### **Exercise 2.4: Sequence Challenge**
+### **Latihan 2.4: Detektif Deret**
 
 ```
-Find the next number in each sequence:
+Cari angka selanjutnya:
 
 1. 7, 14, 28, 56, 112, ?
 2. 3, 7, 11, 15, 19, ?
 3. 1, 4, 10, 19, 31, ?
 4. 2, 6, 18, 54, 162, ?
-5. 5, 10, 20, 35, 55, ?
+5. 5, 10, 20, 35, 55, ? (hint: lihat selisihnya!)
 
-Waktu target: 5 menit
+Target Waktu: 5 menit
 ```
 
-### **Exercise 2.5: Speed Round**
+### **Latihan 2.5: Speed Round**
 
 ```
-Mixed calculations (as fast as possible):
+Campuran semua (secepat mungkin):
 
 1. 23 × 11 = ?
 2. 20% dari 350 = ?
 3. 29 mod 6 = ?
 4. 45² = ?
-5. Next in sequence: 4, 9, 16, 25, 36, ?
+5. Deret: 4, 9, 16, 25, 36, ?
 6. 18 × 25 = ?
 7. 75% dari 120 = ?
 8. 67 mod 5 = ?
 9. 85 × 11 = ?
 10. 30% dari 260 = ?
 
-Waktu target: 3 menit
+Target Waktu: 3 menit
 ```
 
 ---
 
-## 📋 **JAWABAN LATIHAN**
+## 📋 **KUNCI JAWABAN**
 
-### **Exercise 2.1:**
+### **Latihan 2.1:**
 
 ```
 1. 47 × 11 = 4(4+7)7 = 4(11)7 = 517
 2. 32 × 25 = (32÷4) × 100 = 8 × 100 = 800
-3. 65² = (6×7) and 25 = 4225
+3. 65² = (6×7) dan 25 = 4225
 4. 24 × 37 = 2×3|2×7+4×3|4×7 = 6|26|28 = 888
 5. 76 × 11 = 7(7+6)6 = 7(13)6 = 836
 ```
 
-### **Exercise 2.2:**
+### **Latihan 2.2:**
 
 ```
 1. 15% dari 240 = 10%+5% = 24+12 = 36
@@ -580,7 +564,7 @@ Waktu target: 3 menit
 5. 8% dari 750 = 750×0.08 = 60
 ```
 
-### **Exercise 2.3:**
+### **Latihan 2.3:**
 
 ```
 1. 47 mod 7 = 5 (47 = 6×7 + 5)
@@ -590,17 +574,17 @@ Waktu target: 3 menit
 5. 156 mod 8 = 4 (156 = 19×8 + 4)
 ```
 
-### **Exercise 2.4:**
+### **Latihan 2.4:**
 
 ```
-1. 224 (×2 pattern)
-2. 23 (+4 pattern)
-3. 46 (differences: 3,6,9,12,15 → next +15)
-4. 486 (×3 pattern)
-5. 80 (differences: 5,10,15,20,25 → next +25)
+1. 224 (×2 terus)
+2. 23 (+4 terus)
+3. 46 (selisih: 3,6,9,12,15 → berikutnya +15)
+4. 486 (×3 terus)
+5. 80 (selisih: 5,10,15,20,25 → berikutnya +25)
 ```
 
-### **Exercise 2.5:**
+### **Latihan 2.5:**
 
 ```
 1. 253  2. 70   3. 5   4. 2025  5. 49
@@ -609,113 +593,95 @@ Waktu target: 3 menit
 
 ---
 
-## 🎯 **REAL-WORLD APPLICATIONS**
+## 🎯 **APLIKASI DUNIA NYATA**
 
-### **Programming & Development:**
-
-```
-Percentage calculations:
-- Progress bars: 67 of 200 tasks = 67/200 = 33.5%
-- Memory usage: 340MB of 1GB = 340/1000 = 34%
-- Test coverage: 156 of 200 lines = 78%
-
-Modular arithmetic:
-- Hash functions: key mod table_size
-- Circular arrays: index mod array_length
-- Time calculations: seconds mod 60 for minutes
-```
-
-### **Business Analysis:**
+### **Belanja & Keuangan:**
 
 ```
-Quick estimations:
-- Revenue growth: 15% of $240K = $36K increase
-- Cost reduction: 8% of $750K = $60K savings
-- Market share: Company A has 45 of 180 total = 25%
+Perhitungan Praktis:
+- Progress bar: 67 dari 200 tugas = 67/200 = 33.5%
+- Penggunaan memori: 340MB dari 1GB = 340/1000 = 34%
+- Cakupan tes: 156 dari 200 baris = 78%
 
-Pattern recognition:
-- Sales trends: Monthly growth 5%, 7%, 9%, 11% → next 13%
-- User acquisition: 100, 150, 225, 337 → roughly 1.5x growth
+Belanja Pintar:
+- Diskon 25% dari barang Rp80.000 = Rp20.000 potongan = Rp60.000 akhir
+- Tip 15% dari bill Rp47.000 = Rp7.000 tip = Rp54.000 total
+- Pajak 8% dari Rp125.000 = Rp10.000 pajak
 ```
 
-### **Daily Life:**
+### **Manajemen Waktu:**
 
 ```
-Shopping calculations:
-- 25% discount on $80 item = $20 off = $60 final
-- 15% tip on $47 bill = $7 tip = $54 total
-- Tax calculations: 8% tax on $125 = $10 tax
-
-Time management:
-- 37% of 8-hour day = 3 hours
-- 15-minute breaks every 90 minutes
-- Task completion rate tracking
+Kalkulasi Efisiensi:
+- 37% dari 8 jam kerja = 3 jam produktif
+- Break 15 menit setiap 90 menit
+- Tracking completion rate harian
 ```
 
 ---
 
-## 🚀 **KEY TAKEAWAYS BAB 2**
+## 🚀 **POIN PENTING BAB 2**
 
 ### **Prioritas Penguasaan:**
 
-1. **Master the fundamentals**: Tables, basic percentages, simple sequences
-2. **Learn shortcuts**: 11, 25, squares ending in 5
-3. **Practice daily**: 10-15 minutes consistent practice better than 2 hours once
-4. **Apply immediately**: Use techniques in real situations
+1. **Kuasai fundamental**: Tabel, persen dasar, deret sederhana
+2. **Pelajari shortcut**: 11, 25, kuadrat berakhiran 5
+3. **Latihan harian**: 10-15 menit konsisten lebih baik dari 2 jam sekali
+4. **Aplikasi langsung**: Pakai teknik dalam situasi nyata
 
-### **Common Mistakes to Avoid:**
-
-```
-❌ Rushing without accuracy - build accuracy first, speed follows
-❌ Memorizing without understanding - know WHY techniques work
-❌ Skipping basic facts - advanced techniques rely on solid foundation
-❌ Not practicing regularly - mental math skills fade quickly
-```
-
-### **Speed vs Accuracy Balance:**
+### **Kesalahan yang Harus Dihindari:**
 
 ```
-Beginner: 90% accuracy, any speed
-Intermediate: 95% accuracy, moderate speed
-Advanced: 98% accuracy, high speed
-Expert: 99%+ accuracy, maximum speed
+❌ Buru-buru tanpa akurasi - bangun akurasi dulu, kecepatan mengikuti
+❌ Hafal tanpa paham - tahu KENAPA teknik bekerja
+❌ Skip fakta dasar - teknik lanjutan butuh fondasi solid
+❌ Tidak latihan teratur - skill mental math cepat hilang
 ```
 
-### **Daily Practice Schedule:**
+### **Keseimbangan Kecepatan vs Akurasi:**
 
 ```
-Morning (5 minutes):
-- Quick multiplication drill
-- Percentage warm-up
+Pemula: 90% akurasi, kecepatan santai
+Menengah: 95% akurasi, kecepatan sedang
+Lanjutan: 98% akurasi, kecepatan tinggi
+Expert: 99%+ akurasi, kecepatan maksimal
+```
+
+### **Jadwal Latihan Harian:**
+
+```
+Pagi (5 menit):
+- Drill perkalian cepat
+- Pemanasan persen
 - Pattern recognition
 
-Evening (10 minutes):
-- Mixed calculations
-- Real-world applications
-- Error analysis
+Sore (10 menit):
+- Kalkulasi campuran
+- Aplikasi dunia nyata
+- Analisa error
 ```
 
 ---
 
 ## 🎯 **PERSIAPAN BAB 3**
 
-Setelah menguasai mental arithmetic, kita akan lanjut ke **Deduksi & Induksi** di Bab 3. Kemampuan hitung cepat akan memperkuat kemampuan analisis logika yang lebih kompleks.
+Setelah jago hitung cepat, kita akan lanjut ke **Deduksi & Induksi** di Bab 3. Kemampuan hitung cepat akan memperkuat kemampuan analisis logika yang lebih rumit.
 
 **Preview Bab 3:**
 
-- Advanced deductive reasoning
-- Multi-step logical puzzles
-- Truth-teller vs liar problems
-- Causal analysis techniques
-- Pattern recognition dalam logic
+- Penalaran deduktif tingkat lanjut
+- Multi-step logic puzzles
+- Truth-teller vs liar yang menantang
+- Teknik analisis sebab-akibat
+- Mengenali pola dalam logika
 
-**Homework sebelum Bab 3:**
+**PR sebelum Bab 3:**
 Setiap hari latih:
 
 1. 10 soal hitung cepat (mix semua teknik)
 2. 1 sequence pattern finding
-3. Apply mental math ke 1 situasi real dalam hidup
+3. Aplikasi mental math ke 1 situasi nyata dalam hidup
 
 ---
 
-_"Numbers are the language of logic. Master the calculations, and logical reasoning becomes much clearer."_
+_"Angka adalah bahasa logika. Kuasai perhitungannya, maka penalaran logis jadi jauh lebih jelas."_
